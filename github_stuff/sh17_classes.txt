@@ -1,0 +1,17 @@
+0 person
+1 ear
+2 ear-mufs
+3 face
+4 faceguard
+5 face-mask-medical
+6 foot
+7 tool
+8 glasses
+9 gloves
+10 helmet
+11 hand
+12 head
+13 medical-suit
+14 shoes
+15 safety-suit
+16 safety-vest
